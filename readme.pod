@@ -1,0 +1,9 @@
+=pod
+
+=head1 NAME
+
+DConsole
+
+=head1 DESCRIPTION
+
+A advanced console application in D programming language.
